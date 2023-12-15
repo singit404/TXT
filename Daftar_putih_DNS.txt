@@ -14,3 +14,4 @@
 @@||meong.club^
 @@||howdy.id^
 @@||*.opera.com^
+@@||*.elamigos.site^
