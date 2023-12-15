@@ -1,0 +1,10 @@
+||*.newrelic.com^
+||*.branch.io^
+||*.histats.com^
+||*.3u.com^
+||*.cdn-apple.com^
+||*.ads.js^
+||*.pagead.js^
+||*.partner.ads.js^
+||3utool.3u.com^
+||pcres2.3u.com^

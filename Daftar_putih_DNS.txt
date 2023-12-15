@@ -1,0 +1,16 @@
+@@|account.adguard.com^
+@@||ebuckler.com^
+@@||mixpanel.com^
+@@||split.io^
+@@||s.youtube.com^
+@@||googlesyndication.com
+@@||fastssh.com^
+@@||googlesyndication.com^
+@@||helmiau.com^
+@@||radenku.com^
+@@||pastebin.com^
+@@||i.redd.it^
+@@||woiden.id^
+@@||meong.club^
+@@||howdy.id^
+@@||*.opera.com^
