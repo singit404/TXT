@@ -39,3 +39,4 @@ movieku.cam##.close-button
 ||RP888_%E9%80%9A%E7%94%A8%E5%B9%BF%E5%91%8A%E5%9B%BE_GIF_240x240.gif^
 ||https://137.175.92.53/indexadsff09.html^
 ||https://137.175.92.53^
+||https://154.39.158.65:8095^
