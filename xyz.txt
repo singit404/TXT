@@ -1,5 +1,6 @@
 !============ Ads =============
-
+	
+||youtube.com/api/stats/qoe?^
 ! --- Amazon
 ||adtago.s3.amazonaws.com^
 ||analyticsengine.s3.amazonaws.com^
