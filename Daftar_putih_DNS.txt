@@ -16,3 +16,5 @@
 @@||*.opera.com^
 @@||*.elamigos.site^
 @@||*.top10vpn.com^
+@@||*.aptoide.com^
+@@||aptoide.com^
