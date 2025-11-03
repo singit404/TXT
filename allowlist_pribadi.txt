@@ -13,6 +13,8 @@
 @@||lk21.ceo^
 @@||lk21official.de^
 @@||short.icu^
+@@||*.aptoide.com^
+@@||aptoide.com^
 @@||^
 @@||^
 @@||^
