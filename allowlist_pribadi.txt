@@ -15,7 +15,7 @@
 @@||short.icu^
 @@||*.aptoide.com^
 @@||aptoide.com^
-@@||^
+@@||3u.com^
 @@||^
 @@||^
 @@||^
