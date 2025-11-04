@@ -16,7 +16,7 @@
 @@||*.aptoide.com^
 @@||aptoide.com^
 @@||3u.com^
-@@||^
+@@||yasdl.com^
 @@||^
 @@||^
 @@||^
