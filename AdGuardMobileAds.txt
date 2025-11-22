@@ -7631,3 +7631,10 @@ adguard.info,adguard.com,adguard.app##.hello_from_adguard_mobile
 ! https://forum.adguard.com/index.php?threads/23599/
 ! https://github.com/AdguardTeam/AdguardFilters/issues/5676
 !
+||googleads.g.doubleclick.net^
+||pagead2.googlesyndication.com^
+||androidtvwatched.com^
+||androidtvtracking.com^
+||api.ad.xiaomi.com^
+||data.mistat.intl.xiaomi.com^
+||userdata.ad.xiaomi.com^
