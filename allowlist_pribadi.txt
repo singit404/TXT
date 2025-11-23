@@ -91,7 +91,7 @@
 @@||1dot1dot1dot1.cloudflare-dns.com^
 @@||click.tabrr.com^
 @@||s.id^
-@@||^
+@@||blogspot.com^
 @@||^
 @@||^
 @@||^
