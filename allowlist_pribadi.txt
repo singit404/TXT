@@ -41,7 +41,6 @@
 @@||split.io^
 @@||s.youtube.com^
 @@||fastssh.com^
-@@||googlesyndication.com^
 @@||reddit.com^
 @@||helmiau.com^
 @@||radenku.com^
